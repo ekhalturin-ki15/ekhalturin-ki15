@@ -7,6 +7,7 @@
 ### Уважаемые языки:
 ![C++](https://img.shields.io/badge/-CPP-030303?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![UE](https://img.shields.io/badge/-UE-030303?style=for-the-badge&logo=unrealengine&logoColor=940000)
+![SQL](https://img.shields.io/badge/-MSSQL-030303?style=for-the-badge&logo=microsoftsqlserver&logoColor=23FE6E)
 
 ### Ищи меня:
 [![vk](https://img.shields.io/badge/-VK-030303?style=for-the-badge&logo=Vk&logoColor=57FFF2)](https://vk.com/redimer)
