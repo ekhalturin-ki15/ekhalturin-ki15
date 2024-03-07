@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![UE]((https://img.shields.io/badge/UE?style=for-the-badge&logoColor=black&label=unrealengine)
+![UE](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 <!--
 - 🔭 I’m currently working on ...
