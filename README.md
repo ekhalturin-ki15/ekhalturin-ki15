@@ -9,8 +9,8 @@
 ![UE](https://img.shields.io/badge/-unrealengine-4D1414?style=for-the-badge&logo=unrealengine&logoColor=6296CC)
 
 ### Ищи меня:
-![vk](https://img.shields.io/badge/-Vkontakte-4D1414?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/redimer)
-![CG](https://img.shields.io/badge/-codingame-4D1414?style=for-the-badge&logo=codingame&logoColor=6296CC)](https://vk.com/redimer)
+[![vk](https://img.shields.io/badge/-Vkontakte-4D1414?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/redimer)
+[![CG](https://img.shields.io/badge/-codingame-4D1414?style=for-the-badge&logo=codingame&logoColor=6296CC)](https://www.codingame.com/profile/a43af7de1b3ddfe759a8409c73fa4cd85688043)
 
 <!--
 - 🔭 I’m currently working on ...
