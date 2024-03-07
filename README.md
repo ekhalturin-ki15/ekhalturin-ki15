@@ -11,6 +11,7 @@
 ### Ищи меня:
 [![vk](https://img.shields.io/badge/-Vkontakte-4D1414?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/redimer)
 [![CG](https://img.shields.io/badge/-codingame-4D1414?style=for-the-badge&logo=codingame&logoColor=6296CC)](https://www.codingame.com/profile/a43af7de1b3ddfe759a8409c73fa4cd85688043)
+[![CF](https://img.shields.io/badge/-codeforces-4D1414?style=for-the-badge&logo=codeforces&logoColor=6296CC)](https://codeforces.com/profile/redimer)
 
 <!--
 - 🔭 I’m currently working on ...
