@@ -5,13 +5,13 @@
 ### Халтурин Евгений. Работаю с 2021 года в ИКИТ СФУ. Нужно делать компьютерные игры и решать олимпиадные задачи. Всё, что в жизне нужно, оно в голове, осталось только вытащить всё это.
 
 ### Уважаемые языки:
-![C++](https://img.shields.io/badge/-CPP-4D1414?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![UE](https://img.shields.io/badge/-UE-4D1414?style=for-the-badge&logo=unrealengine&logoColor=6296CC)
+![C++](https://img.shields.io/badge/-CPP-030303?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![UE](https://img.shields.io/badge/-UE-030303?style=for-the-badge&logo=unrealengine&logoColor=940000)
 
 ### Ищи меня:
-[![vk](https://img.shields.io/badge/-VK-4D1414?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/redimer)
-[![CG](https://img.shields.io/badge/-CD-4D1414?style=for-the-badge&logo=codingame&logoColor=6296CC)](https://www.codingame.com/profile/a43af7de1b3ddfe759a8409c73fa4cd85688043)
-[![CF](https://img.shields.io/badge/-CF-4D1414?style=for-the-badge&logo=codeforces&logoColor=6296CC)](https://codeforces.com/profile/redimer)
+[![vk](https://img.shields.io/badge/-VK-030303?style=for-the-badge&logo=Vk&logoColor=57FFF2)](https://vk.com/redimer)
+[![CG](https://img.shields.io/badge/-CD-030303?style=for-the-badge&logo=codingame&logoColor=FFF657)](https://www.codingame.com/profile/a43af7de1b3ddfe759a8409c73fa4cd85688043)
+[![CF](https://img.shields.io/badge/-CF-030303?style=for-the-badge&logo=codeforces&logoColor=90E854)](https://codeforces.com/profile/redimer)
 
 <!--
 - 🔭 I’m currently working on ...
