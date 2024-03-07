@@ -3,7 +3,15 @@
 <!--
 **ekhalturin-ki15/ekhalturin-ki15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#Правильный путь всегда самый трудный
+
+##Халтурин Евгений. Нужно делать компьютерные игры и решать олимпиадные задачи. Всё, что в жизне нужно, оно в голове, осталось только вытащить всё это.
+
+### Languages and Tools:
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![UE]((https://img.shields.io/badge/UE?style=for-the-badge&logoColor=black&label=unrealengine)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
