@@ -1,15 +1,16 @@
 <!--**ekhalturin-ki15/ekhalturin-ki15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# Правильный путь всегда самый трудный
+## Правильный путь всегда самый трудный
 
-## Халтурин Евгений. Нужно делать компьютерные игры и решать олимпиадные задачи. Всё, что в жизне нужно, оно в голове, осталось только вытащить всё это.
+### Халтурин Евгений. Работаю с 2021 года в ИКИТ СФУ. Нужно делать компьютерные игры и решать олимпиадные задачи. Всё, что в жизне нужно, оно в голове, осталось только вытащить всё это.
 
 ### Уважаемые языки:
 ![C++](https://img.shields.io/badge/-C++-4D1414?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![UE](https://img.shields.io/badge/-unrealengine-4D1414?style=for-the-badge&logo=unrealengine&logoColor=6296CC)
 
 ### Ищи меня:
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-4D1414?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/redimer)
+![vk](https://img.shields.io/badge/-Vkontakte-4D1414?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/redimer)
+![CG](https://img.shields.io/badge/-codingame-4D1414?style=for-the-badge&logo=codingame&logoColor=6296CC)](https://vk.com/redimer)
 
 <!--
 - 🔭 I’m currently working on ...
